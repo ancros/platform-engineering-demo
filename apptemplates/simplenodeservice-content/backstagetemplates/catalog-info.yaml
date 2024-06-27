@@ -14,7 +14,7 @@ metadata:
     - url: https://github.com/ancros/platform-engineering-demo.git
       title: Github Repo
       icon: github
-    - url: https://redesigned-cod-wrg5r5wxr45cp5-DEMO_APP_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://redesigned-cod-wrg5r5wxr45cp5-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
